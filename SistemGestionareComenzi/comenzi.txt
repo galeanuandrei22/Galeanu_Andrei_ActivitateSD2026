@@ -1,0 +1,4 @@
+1,15,2.5,Ion_Popescu,Str_Florilor_10,A
+2,10,1.2,Ana_Maria,Bulevardul_Unirii_5,B
+3,30,5.0,Vasile_Gelu,Calea_Victoriei_100,C
+4,5,0.8,Elena_Radu,Str_Lunga_1,A
