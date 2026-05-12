@@ -27,6 +27,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GestiuneStocuri", "Gestiune
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "IesireDinLabirint", "IesireDinLabirint\IesireDinLabirint.vcxproj", "{4E732486-A6E4-42F1-99BA-96990F16526C}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MonitorizareTemperaturi", "MonitorizareTemperaturi\MonitorizareTemperaturi.vcxproj", "{054CD8FF-8DE3-49DD-989F-8D100FCDD58C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -131,6 +133,14 @@ Global
 		{4E732486-A6E4-42F1-99BA-96990F16526C}.Release|x64.Build.0 = Release|x64
 		{4E732486-A6E4-42F1-99BA-96990F16526C}.Release|x86.ActiveCfg = Release|Win32
 		{4E732486-A6E4-42F1-99BA-96990F16526C}.Release|x86.Build.0 = Release|Win32
+		{054CD8FF-8DE3-49DD-989F-8D100FCDD58C}.Debug|x64.ActiveCfg = Debug|x64
+		{054CD8FF-8DE3-49DD-989F-8D100FCDD58C}.Debug|x64.Build.0 = Debug|x64
+		{054CD8FF-8DE3-49DD-989F-8D100FCDD58C}.Debug|x86.ActiveCfg = Debug|Win32
+		{054CD8FF-8DE3-49DD-989F-8D100FCDD58C}.Debug|x86.Build.0 = Debug|Win32
+		{054CD8FF-8DE3-49DD-989F-8D100FCDD58C}.Release|x64.ActiveCfg = Release|x64
+		{054CD8FF-8DE3-49DD-989F-8D100FCDD58C}.Release|x64.Build.0 = Release|x64
+		{054CD8FF-8DE3-49DD-989F-8D100FCDD58C}.Release|x86.ActiveCfg = Release|Win32
+		{054CD8FF-8DE3-49DD-989F-8D100FCDD58C}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

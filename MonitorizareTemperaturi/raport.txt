@@ -1,0 +1,8 @@
+inaltime arbore avl: 3
+date descrescator
+ts: 1006 | temperatura: 19.9
+ts: 1005 | temperatura: 20.5
+ts: 1004 | temperatura: 24.1
+ts: 1003 | temperatura: 21.8
+ts: 1002 | temperatura: 23.0
+ts: 1001 | temperatura: 22.5
