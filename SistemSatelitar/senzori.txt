@@ -1,0 +1,5 @@
+10,50,22.5,Termic,Unitate_Alfa,A
+5,30,15.0,GPS,Unitate_Beta,A
+15,100,1.2,Viteza,Unitate_Alfa,I
+3,45,23.1,Termic,Unitate_Gamma,A
+7,20,14.8,GPS,Unitate_Beta,I

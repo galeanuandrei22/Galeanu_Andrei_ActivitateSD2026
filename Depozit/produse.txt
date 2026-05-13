@@ -1,0 +1,5 @@
+laptop 10 5
+monitor 10 15
+tastatura 12 50
+mouse 12 100
+imprimanta 15 3
