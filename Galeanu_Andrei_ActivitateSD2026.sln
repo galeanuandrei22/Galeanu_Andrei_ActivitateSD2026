@@ -37,6 +37,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Depozit", "Depozit\Depozit.
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SistemSatelitar", "SistemSatelitar\SistemSatelitar.vcxproj", "{20B30854-4637-42F9-9EF5-B9402557C22E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ZboruriAeroportuare", "ZboruriAeroportuare\ZboruriAeroportuare.vcxproj", "{A670312B-8534-451C-AC23-F958DE86E39A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -181,6 +183,14 @@ Global
 		{20B30854-4637-42F9-9EF5-B9402557C22E}.Release|x64.Build.0 = Release|x64
 		{20B30854-4637-42F9-9EF5-B9402557C22E}.Release|x86.ActiveCfg = Release|Win32
 		{20B30854-4637-42F9-9EF5-B9402557C22E}.Release|x86.Build.0 = Release|Win32
+		{A670312B-8534-451C-AC23-F958DE86E39A}.Debug|x64.ActiveCfg = Debug|x64
+		{A670312B-8534-451C-AC23-F958DE86E39A}.Debug|x64.Build.0 = Debug|x64
+		{A670312B-8534-451C-AC23-F958DE86E39A}.Debug|x86.ActiveCfg = Debug|Win32
+		{A670312B-8534-451C-AC23-F958DE86E39A}.Debug|x86.Build.0 = Debug|Win32
+		{A670312B-8534-451C-AC23-F958DE86E39A}.Release|x64.ActiveCfg = Release|x64
+		{A670312B-8534-451C-AC23-F958DE86E39A}.Release|x64.Build.0 = Release|x64
+		{A670312B-8534-451C-AC23-F958DE86E39A}.Release|x86.ActiveCfg = Release|Win32
+		{A670312B-8534-451C-AC23-F958DE86E39A}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

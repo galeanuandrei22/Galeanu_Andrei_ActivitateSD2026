@@ -1,0 +1,5 @@
+10,150,450.5,Paris,Ionescu,A
+20,180,320.0,Londra,Popescu,B
+30,120,500.2,NewYork,Vasile,C
+40,200,150.0,Paris,Georgescu,D
+50,90,600.0,Tokyo,Radu,E
