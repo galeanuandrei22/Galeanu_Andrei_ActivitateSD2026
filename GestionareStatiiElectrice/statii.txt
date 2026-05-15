@@ -1,0 +1,5 @@
+50,120,110.5,Brasov,Popescu,E
+30,85,220.0,Sibiu,Ionescu,V
+70,200,400.2,Brasov,Vasilescu,E
+20,45,110.0,Cluj,Georgescu,V
+40,90,220.5,Sibiu,Radu,V
