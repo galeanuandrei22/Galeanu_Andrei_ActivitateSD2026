@@ -1,0 +1,5 @@
+10,8,0.25,systemd,root,R
+20,4,1.50,chrome,user1,W
+30,2,0.10,discord,user1,R
+40,16,2.00,docker,root,R
+50,1,0.50,bash,user2,W
